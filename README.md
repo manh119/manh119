@@ -4,7 +4,7 @@
 ### 🔥 Streak Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manh119&theme=radical)
 
-### 🛠 Top Languages
+### 🛠 Fun graph 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manh119&theme=github-compact&custom_title=Contribution%20Graph)
 <!--
 **manh119/manh119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
