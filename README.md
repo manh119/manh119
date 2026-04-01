@@ -1,5 +1,14 @@
-## Hi there 👋
 
+# Hi, I'm manh119 👋
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=manh119&show_icons=true&theme=radical&count_private=true)
+
+### 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manh119&theme=radical)
+
+### 🛠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manh119&layout=compact&theme=radical)
 <!--
 **manh119/manh119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
